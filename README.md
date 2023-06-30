@@ -1,7 +1,7 @@
 # Scarface site
 
 ### Description
-My university project of the Visual Communication laboratory
+My university project of the Visual Communication laboratory (I MSc year)
 
 ### 1. Scope
 The course required to realize a responsive website centered on a film we had to choose. My choice has been Scarface
