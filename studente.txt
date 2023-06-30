@@ -1,0 +1,4 @@
+Cognome: Pasinetti
+Nome: Umberto
+Matricola: 873604
+Indirizzo di posta elettronica di ateneo: u.pasinetti@campus.unimib.it
